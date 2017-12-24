@@ -1,0 +1,30 @@
+------------------------------------------------------------------------
+ X  Weekend tasks                   Saturday morning
+ X  Running around tasks            Saturday mid-morning
+ X  Sheets                          Saturday afternoon/evening
+ X  Salmon w/ Bok Chois             Saturday evning
+------------------------------------------------------------------------
+    Stollen (us)                    Sunday morning
+    Christmas Tree Bread (us)       Sunday morning
+
+    Duck
+    Veg/Salad ?                     Sunday evening
+    Potato rafts?
+------------------------------------------------------------------------
+    Eat and be merry                Monday morning
+    Play Twilight Struggle          Monday morning
+    Stollen II                      Monday afternoon
+------------------------------------------------------------------------
+    Mac battery/PS                  Tuesday morning
+    Ship Stollen                    Tuesday morning
+    Deliver Mathias's Stollen       Tuesday morning
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+    Movie
+    Exploring I  Pedway?
+    Exploring II  Koval tour
+    Exploring III SC Johnson Frank Lloyd Wright tour
+
+
+# vi: ai sw=4 ts=4 et nohlsearch syntax=clear tw=72 comments=fb\:*,fb\:-

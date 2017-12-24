@@ -7,8 +7,8 @@
     Stollen (us)                    Sunday morning
     Christmas Tree Bread (us)       Sunday morning
 
-    PAK Wrap gifts
-    RIB Wrap gifts
+X   PAK Wrap gifts
+X   RIB Wrap gifts
 
     Duck
     Veg/Salad ?                     Sunday evening

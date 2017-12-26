@@ -19,7 +19,7 @@
  X  Stollen II                      Monday afternoon
 ------------------------------------------------------------------------
     Ship Stollen                    Tuesday morning
-    <a href="https://postcalc.usps.com/ServiceCommitments?dz=01719&oz=60660&mdt=2017/12/26%2013:29">USPS service guarentee</a>
+    https://postcalc.usps.com/ServiceCommitments?dz=01719&oz=60660&mdt=2017/12/26%2013:29
     Deliver Mathias's Stollen       Tuesday
     Backup Galah                    Tuesday
     Mac battery/PS                  Tuesday/Wednesday?

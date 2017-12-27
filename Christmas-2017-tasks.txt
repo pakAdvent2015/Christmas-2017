@@ -23,14 +23,18 @@
  X  Deliver Mathias's Stollen       Tuesday
  X  Backup Galah                    Tuesday
     Mac battery/PS                  Wednesday, 14:00 APPLE, LINCOLN PARK
-    Call Licoln Park Apple store    312-777-4200 say "technician or Manager"
+ X  Call Licoln Park Apple store    312-777-4200 say "technician or Manager"
 ------------------------------------------------------------------------
+ X  Find Consumer Reports password
  X  Pay property tax!
     Move cat bed cord
-    Deploy Humidifiers
+    Get TV Trays at Bed, Bath, and Beyond.
+ X  Deploy Humidifier
+    Deploy Humidifier
+    Deploy Humidifier
     Make Bootable installers
     PAK Haircut
-    Rabies shots for cats
+ P  Rabies shots for cats
 ------------------------------------------------------------------------
     Movie?
     Exploring I   Pedway?

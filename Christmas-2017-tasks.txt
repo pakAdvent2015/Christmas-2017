@@ -19,12 +19,13 @@
  X  Stollen II                      Monday afternoon
 ------------------------------------------------------------------------
  X  Ship Stollen                    Tuesday morning
-    https://postcalc.usps.com/ServiceCommitments?dz=01719&oz=60660&mdt=2017/12/26%2013:29
+ X  https://postcalc.usps.com/ServiceCommitments?dz=01719&oz=60660&mdt=2017/12/26%2013:29
  X  Deliver Mathias's Stollen       Tuesday
-    Backup Galah                    Tuesday
+ X  Backup Galah                    Tuesday
     Mac battery/PS                  Wednesday, 14:00 APPLE, LINCOLN PARK
     Call Licoln Park Apple store    312-777-4200 say "technician or Manager"
 ------------------------------------------------------------------------
+ X  Pay property tax!
     Move cat bed cord
     Deploy Humidifiers
     Make Bootable installers
@@ -32,7 +33,7 @@
     Rabies shots for cats
 ------------------------------------------------------------------------
     Movie?
-    Exploring I  Pedway?
+    Exploring I   Pedway?
     Exploring II  Koval tour
     Exploring III SC Johnson Frank Lloyd Wright tour
 

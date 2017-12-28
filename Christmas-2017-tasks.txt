@@ -15,7 +15,7 @@
  X  Potato rafts?
 ------------------------------------------------------------------------
  X  Eat and be merry                Monday morning
-    Play Twilight Struggle          Monday morning
+ X  Play Twilight Struggle          Monday morning
  X  Stollen II                      Monday afternoon
 ------------------------------------------------------------------------
  X  Ship Stollen                    Tuesday morning
@@ -30,7 +30,7 @@
     Move cat bed cord
     Get TV Trays at Bed, Bath, and Beyond.
  X  Deploy Humidifier
-    Deploy Humidifier
+ X  Deploy Humidifier
     Deploy Humidifier
     Make Bootable installers
     PAK Haircut

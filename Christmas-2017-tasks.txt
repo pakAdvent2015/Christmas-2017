@@ -27,6 +27,7 @@
 ------------------------------------------------------------------------
  X  Find Consumer Reports password
  X  Pay property tax!
+    Shave
     Move cat bed cord
     Get TV Trays at Bed, Bath, and Beyond.
  X  Deploy Humidifier
@@ -35,7 +36,7 @@
     Make Bootable installers
     PAK Haircut
  P  Rabies shots for cats
-    Order batteries for laser pointer
+ X  Order batteries for laser pointer
     Touch base with all recruiters
     Touch base with Eric.
 

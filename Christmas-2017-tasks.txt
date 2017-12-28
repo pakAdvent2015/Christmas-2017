@@ -27,7 +27,7 @@
 ------------------------------------------------------------------------
  X  Find Consumer Reports password
  X  Pay property tax!
-    Shave
+ X  Shave
  X  Move cat bed cord
     Get TV Trays at Bed, Bath, and Beyond.
  X  Deploy Humidifier
@@ -39,6 +39,7 @@
  X  Order batteries for laser pointer
     Touch base with all recruiters
     Touch base with Eric.
+    Look at benefits stuff
 ------------------------------------------------------------------------
     Movie?
     Exploring I   Pedway?

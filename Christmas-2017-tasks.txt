@@ -22,24 +22,29 @@
  X  https://postcalc.usps.com/ServiceCommitments?dz=01719&oz=60660&mdt=2017/12/26%2013:29
  X  Deliver Mathias's Stollen       Tuesday
  X  Backup Galah                    Tuesday
-    Mac battery/PS                  Wednesday, 14:00 APPLE, LINCOLN PARK
+ #  Mac battery/PS                  Wednesday, 14:00 APPLE, LINCOLN PARK
  X  Call Licoln Park Apple store    312-777-4200 say "technician or Manager"
 ------------------------------------------------------------------------
  X  Find Consumer Reports password
  X  Pay property tax!
  X  Shave
  X  Move cat bed cord
-    Get TV Trays at Bed, Bath, and Beyond.
+ X  Get TV Trays at Bed, Bath, and Beyond.
  X  Deploy Humidifier
  X  Deploy Humidifier
-    Deploy Humidifier
+    Wrap Humidifier cable (bedroom)
+    Wrap Humidifier cable (living room)
+    Deploy Humidifier (bedroom)
+    Deploy Humidifier (living room)
     Make Bootable installers
     PAK Haircut
- P  Rabies shots for cats
+ X  Rabies shots for cats
  X  Order batteries for laser pointer
     Touch base with all recruiters
     Touch base with Eric.
     Look at benefits stuff
+    Mac battery
+    Mac PS
 ------------------------------------------------------------------------
     Movie?
     Exploring I   Pedway?

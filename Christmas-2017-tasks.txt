@@ -38,7 +38,7 @@
  #  Wrap Humidifier cable (bedroom)
  X  Wrap Humidifier cable (living room)
  X  Deploy Humidifier (bedroom)
-    Deploy Humidifier (living room)
+ X  Deploy Humidifier (living room)
     Make Bootable installers
     PAK Haircut
     Touch base with all recruiters

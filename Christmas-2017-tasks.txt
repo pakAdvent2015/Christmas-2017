@@ -1,44 +1,5 @@
 ------------------------------------------------------------------------
- X  Weekend tasks                   Saturday morning
- X  Running around tasks            Saturday mid-morning
- X  Sheets                          Saturday afternoon/evening
- X  Salmon w/ Bok Chois             Saturday evning
-------------------------------------------------------------------------
- X  Stollen (us)                    Sunday morning
- X  Christmas Tree Bread (us)       Sunday morning
-
- X  PAK Wrap gifts
- X  RIB Wrap gifts
-
- X  Duck
- X  Veg/Salad ?                     Sunday evening
- X  Potato rafts?
-------------------------------------------------------------------------
- X  Eat and be merry                Monday morning
- X  Play Twilight Struggle          Monday morning
- X  Stollen II                      Monday afternoon
-------------------------------------------------------------------------
- X  Ship Stollen                    Tuesday morning
- X  https://postcalc.usps.com/ServiceCommitments?dz=01719&oz=60660&mdt=2017/12/26%2013:29
- X  Deliver Mathias's Stollen       Tuesday
- X  Backup Galah                    Tuesday
- #  Mac battery/PS                  Wednesday, 14:00 APPLE, LINCOLN PARK
- X  Call Licoln Park Apple store    312-777-4200 say "technician or Manager"
-------------------------------------------------------------------------
- X  Find Consumer Reports password
- X  Pay property tax!
- X  Shave
- X  Move cat bed cord
- X  Get TV Trays at Bed, Bath, and Beyond.
- X  Deploy Humidifier
- X  Deploy Humidifier
- X  Rabies shots for cats
- X  Order batteries for laser pointer
- X  Find consumer reports Login name 
- #  Wrap Humidifier cable (bedroom)
- X  Wrap Humidifier cable (living room)
- X  Deploy Humidifier (bedroom)
- X  Deploy Humidifier (living room)
+    File the Property Tax Homeowner exemption form (now!)
     Make Bootable installers
     PAK Haircut
     Touch base with all recruiters
@@ -52,6 +13,7 @@
     Exploring I   Pedway?
     Exploring II  Koval tour
     Exploring III SC Johnson Frank Lloyd Wright tour
+------------------------------------------------------------------------
 
 
 # vi: ai sw=4 ts=4 et nohlsearch syntax=clear tw=72 comments=fb\:*,fb\:-

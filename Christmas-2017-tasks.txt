@@ -34,10 +34,10 @@
  X  Deploy Humidifier
  X  Rabies shots for cats
  X  Order batteries for laser pointer
-    Find consumer reports Login name 
-    Wrap Humidifier cable (bedroom)
-    Wrap Humidifier cable (living room)
-    Deploy Humidifier (bedroom)
+ X  Find consumer reports Login name 
+ #  Wrap Humidifier cable (bedroom)
+ X  Wrap Humidifier cable (living room)
+ X  Deploy Humidifier (bedroom)
     Deploy Humidifier (living room)
     Make Bootable installers
     PAK Haircut
@@ -47,6 +47,7 @@
     Mac battery
     Mac PS
 ------------------------------------------------------------------------
+    Dinner out: Empirical?
     Movie?
     Exploring I   Pedway?
     Exploring II  Koval tour

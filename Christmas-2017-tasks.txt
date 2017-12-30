@@ -13,7 +13,16 @@
     Exploring II  Koval tour
     Exploring III SC Johnson Frank Lloyd Wright tour
 ------------------------------------------------------------------------
-    LAKSA                               Friday night
+    Decide on noise-cancelling headphones
+    https://www.consumerreports.org/products/compare/?id=286853-387388-393862
+
+
+ #  LAKSA                               Friday night
+ #  Laundry                             Friday Night?
+ #  Move book to laundry shelves        Friday Night?
+ #  PAK Haircut                         Saturday
+ #  Standard Tasks                      Saturday Morning
+ #  Whole food for Fennel Seed          Saturday Morning
     Duck                                Saturday night 
     Make Kale Soup                      ASAP
     Eat Kale Soup
@@ -22,17 +31,13 @@
     Find Sabrina 
     Move cat tags to cat drawers        Friday
     PAK Reading(1)                      Friday
-    Laundry                             Friday Night?
-    Move book to laundry shelves        Friday Night?
-    PAK Haircut                         Saturday
     Smoke alarms for Brian              ASAP
     Write to Amanda
     Pester Dad for housekeeper stuff
-    Standard Tasks                      Saturday Morning
-    Whole food for Fennel Seed          Saturday Morning
     PAK Reading(2)                      Saturday
     PAK Reading(3)                      Sunday
 
+    Need a way to queue videos to watch, like a video podcast
 
 
 # vi: ai sw=4 ts=4 et nohlsearch syntax=clear tw=72 comments=fb\:*,fb\:-

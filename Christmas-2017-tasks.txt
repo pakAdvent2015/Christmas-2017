@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-    File the Property Tax Homeowner exemption form (now!)
+ p  File the Property Tax Homeowner exemption form (now!)
     Make Bootable installers
     Touch base with all recruiters
     Touch base with Eric.
@@ -13,20 +13,19 @@
     Exploring II  Koval tour
     Exploring III SC Johnson Frank Lloyd Wright tour
 ------------------------------------------------------------------------
-    Decide on noise-cancelling headphones
-    https://www.consumerreports.org/products/compare/?id=286853-387388-393862
-
-
+------------------------------------------------------------------------
  #  LAKSA                               Friday night
  #  Laundry                             Friday Night?
  #  Move book to laundry shelves        Friday Night?
  #  PAK Haircut                         Saturday
  #  Standard Tasks                      Saturday Morning
  #  Whole food for Fennel Seed          Saturday Morning
-    Duck                                Saturday night 
+ #  Duck                                Saturday night 
+ #  Focaccia setup                      Friday
+    Watch Frontline II
+    Finish Twilight Struggle
     Make Kale Soup                      ASAP
     Eat Kale Soup
-    Focaccia setup                      Friday
     Focaccia bake                       ?
     Find Sabrina 
     Move cat tags to cat drawers        Friday
@@ -36,8 +35,11 @@
     Pester Dad for housekeeper stuff
     PAK Reading(2)                      Saturday
     PAK Reading(3)                      Sunday
-
+------------------------------------------------------------------------
+    Decide on noise-cancelling headphones
+      https://www.consumerreports.org/products/compare/?id=286853-387388-393862
     Need a way to queue videos to watch, like a video podcast
+------------------------------------------------------------------------
 
 
 # vi: ai sw=4 ts=4 et nohlsearch syntax=clear tw=72 comments=fb\:*,fb\:-
